@@ -1,0 +1,61 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.4.2",
+	"appid": "wx3031c76f756f07a6",
+	"projectname": "wedding",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 3,
+			"list": [
+				{
+					"id": -1,
+					"name": "地图",
+					"pathName": "pages/map/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "zhufu",
+					"pathName": "pages/bless/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "poster",
+					"pathName": "pages/poster/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "留言",
+					"pathName": "pages/chat/index"
+				}
+			]
+		}
+	}
+}
